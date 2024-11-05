@@ -1,5 +1,23 @@
 # CAPSTONE_CUSTOMER_DATA_ANALYSIS_PROJECT
 
+## Project Title: Customer Trend Analysis
+
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources)
+
+[Goals](#goals)
+
+[The Exploratory Data Analysis](#the-exploratory-data-analysis)
+
+[Data Visualization](#data-visualization)
+
+[Key Findings and Insights](#key-findings-and-insights)
+
+[Recommendations](#recommendations)
+
+
+
 ### Project Overview:
 _____________________
 

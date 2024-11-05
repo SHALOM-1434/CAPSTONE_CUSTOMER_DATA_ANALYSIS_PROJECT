@@ -58,6 +58,8 @@ _________________
 ______________________
 This projects offers offer visual insights into customer data, highlighting patterns in subscription preferences, revenue, and customer demographics
 
+
+
 https://github.com/SHALOM-1434/CAPSTONE_CUSTOMER_DATA_ANALYSIS_PROJECT/blob/main/Revenue%20By%20Subscription%20Type%20-%20Customer.png
 
 

@@ -58,6 +58,13 @@ _________________
 ______________________
 This projects offers offer visual insights into customer data, highlighting patterns in subscription preferences, revenue, and customer demographics
 
+![1  Revenue By Subscription Type - Customer](https://github.com/user-attachments/assets/d8cdb7e4-97ba-47ec-8ae2-4726b4f67fc0)
+
+![2  New Subscription Overtime](https://github.com/user-attachments/assets/3ec6d99b-cf43-4683-8a81-86ff72ed33d3)
+
+![3  Products With No Sale In The Last Quarter](https://github.com/user-attachments/assets/db66b073-64c0-4fa6-9a3e-5772a78bae88)
+
+![4  Top Region By Cancellation](https://github.com/user-attachments/assets/6afe66da-fa25-468a-a215-503441795e57)
 
 
 https://github.com/SHALOM-1434/CAPSTONE_CUSTOMER_DATA_ANALYSIS_PROJECT/blob/main/Revenue%20By%20Subscription%20Type%20-%20Customer.png

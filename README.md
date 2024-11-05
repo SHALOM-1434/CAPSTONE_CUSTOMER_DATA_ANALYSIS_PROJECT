@@ -67,9 +67,6 @@ This projects offers offer visual insights into customer data, highlighting patt
 ![4  Top Region By Cancellation](https://github.com/user-attachments/assets/6afe66da-fa25-468a-a215-503441795e57)
 
 
-https://github.com/SHALOM-1434/CAPSTONE_CUSTOMER_DATA_ANALYSIS_PROJECT/blob/main/Revenue%20By%20Subscription%20Type%20-%20Customer.png
-
-
 
 ### Key Findings and Insights
 _______________________

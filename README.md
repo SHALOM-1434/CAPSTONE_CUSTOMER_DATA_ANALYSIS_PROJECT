@@ -1,6 +1,6 @@
 # CAPSTONE_CUSTOMER_DATA_ANALYSIS_PROJECT
 
-###Project Overview:
+### Project Overview:
 
 This project aims to analyze customer subscription data to uncover trends in subscription preferences, revenue generation, and cancellation patterns. By examining customer demographics and subscription types, we can gain insights into revenue contributions across regions and optimize business strategies.
 

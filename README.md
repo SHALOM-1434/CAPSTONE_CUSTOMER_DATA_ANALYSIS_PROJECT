@@ -110,6 +110,12 @@ _______________________
 
 •	Premium and Standard subscriptions contribute almost equally to the revenue but are far below Basic, indicating limited adoption or perceived value for these plans.
 
+**New Subscriptions Over Time**
+
+***Peak Subscription Points***:    There are clear peaks in May 2022 (1714), October 2022 (1718), and April 2023 (1699), indicating months with higher-than-average new subscriptions.
+
+***Lowest Subscription Points***:    The lowest points occur in June 2022 (1679) and October 2022 (1676), suggesting a significant drop right after some of the peaks.
+
 ### Recommendations
 ___________________________
 

@@ -78,49 +78,57 @@ This projects offers offer visual insights into customer data, highlighting patt
 
 ![1  Revenue By Subscription Type - Customer](https://github.com/user-attachments/assets/d8cdb7e4-97ba-47ec-8ae2-4726b4f67fc0)
 
+![Customer - Subscription Trends](https://github.com/user-attachments/assets/abbe6827-cdc1-40c0-a248-1dd12b70c71f)
+
+![Customer - Subscription Status](https://github.com/user-attachments/assets/40e2be69-da7c-41ff-8e54-1abf26ddc18d)
+
+
 ![2  New Subscription Overtime](https://github.com/user-attachments/assets/3ec6d99b-cf43-4683-8a81-86ff72ed33d3)
 
-![3  Products With No Sale In The Last Quarter](https://github.com/user-attachments/assets/db66b073-64c0-4fa6-9a3e-5772a78bae88)
-
-![4  Top Region By Cancellation](https://github.com/user-attachments/assets/6afe66da-fa25-468a-a215-503441795e57)
 
 
 
 ### Key Findings and Insights
 _______________________
-Revenue by Region:
+**Revenue by Region:**
+
 •	South and West regions generate the highest revenue among all regions.
+
 •	The East and North regions show significantly lower revenue contributions, indicating potential untapped markets or challenges in these areas.
 
-Revenue by Subscription Type within Regions:
+**Revenue by Subscription Type within Regions:**
+
 •	Basic Subscription is the top revenue driver across all regions, especially in the South and West.
+
 •	Premium and Standard Subscriptions generate relatively lower revenue compared to Basic in all regions, with minimal variation in their revenue contributions between regions.
+
 •	The dominance of the Basic subscription across regions suggests it is the most popular or widely adopted plan among customers
 
-Overall Revenue by Subscription Type:
+**Overall Revenue by Subscription Type:**
 
 •	Across all regions, the Basic Subscription generates the highest total revenue, significantly outperforming both Premium and Standard subscriptions.
+
 •	Premium and Standard subscriptions contribute almost equally to the revenue but are far below Basic, indicating limited adoption or perceived value for these plans.
 
 ### Recommendations
 ___________________________
 
-**Upsell Premium and Standard Subscriptions:** Since Basic is overwhelmingly popular, consider campaigns that encourage customers to upgrade to Premium or Standard. Highlight unique features and benefits of these plans to increase their adoption.
+**Upsell Premium and Standard Subscriptions:** 
 
-**Regional Focused Campaigns for North and East:** Given the lower revenue in these regions, consider tailored marketing strategies to boost subscription uptake. Research potential barriers in these regions (e.g., affordability, awareness, or competition) and address them through promotions or localized messaging.
+Since Basic is overwhelmingly popular, consider campaigns that encourage customers to upgrade to Premium or Standard. Highlight unique features and benefits of these plans to increase their adoption.
+
+**Regional Focused Campaigns for North and East:**    Given the lower revenue in these regions, consider tailored marketing strategies to boost subscription uptake. Research potential barriers in these regions (e.g., affordability, awareness, or competition) and address them through promotions or localized messaging.
 
 ***Subscription Plan Optimization:**
-**Reevaluate Premium and Standard Offerings**: Since Basic is highly preferred, analyze the features of Premium and Standard plans to understand why customers may not be choosing them. Consider adding popular features to these plans or adjusting the pricing to make them more attractive.
+**Reevaluate Premium and Standard Offerings**:    Since Basic is highly preferred, analyze the features of Premium and Standard plans to understand why customers may not be choosing them. Consider adding popular features to these plans or adjusting the pricing to make them more attractive.
 Bundle Offers or Discounts for Higher Plans: Introduce limited-time discounts or bundled offers (e.g., family or multi-user plans) to make Premium and Standard subscriptions more appealing.
 
-***Customer Retention in South and West:**
-Since South and West are top-performing regions, focus on retention strategies for customers in these regions. For example, implement loyalty programs, personalized offers, or regular engagement to ensure these high-value customers continue their subscriptions.
+***Customer Retention in South and West:**   Since South and West are top-performing regions, focus on retention strategies for customers in these regions. For example, implement loyalty programs, personalized offers, or regular engagement to ensure these high-value customers continue their subscriptions.
 
-**Product and Customer Feedback:***
-**Collect Feedback on Subscription Types:** Conduct surveys or feedback sessions to understand customer preferences and reasons for choosing Basic over other plans. Use this data to adjust offerings or create new subscription types tailored to customer needs.
 
-**Experiment with Tiered Pricing:***
-Given the popularity of the Basic plan, consider creating a tiered pricing structure within the Basic subscription (e.g., Basic+ or Basic Pro) with small added features. This could help capture additional revenue from customers who might be willing to pay slightly more for added benefits without committing to Premium.
+**Collect Feedback on Subscription Types:**    Conduct surveys or feedback sessions to understand customer preferences and reasons for choosing Basic over other plans. Use this data to adjust offerings or create new subscription types tailored to customer needs.
+
+**Experiment with Tiered Pricing:*** Given the popularity of the Basic plan, consider creating a tiered pricing structure within the Basic subscription (e.g., Basic+ or Basic Pro) with small added features. This could help capture additional revenue from customers who might be willing to pay slightly more for added benefits without committing to Premium.
 By implementing these recommendations, the company can potentially increase revenue from underperforming regions, enhance subscription adoption for higher tiers, and strengthen customer loyalty in high-revenue regions.
 
 
